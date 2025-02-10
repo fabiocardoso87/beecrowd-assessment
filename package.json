@@ -1,0 +1,28 @@
+{
+  "name": "beecrowd-assessment",
+  "version": "1.0.0",
+  "description": "This is an automated testing project using Cypress for **beecrowd** company.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fabiocardoso87/beecrowd-assessment.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fabiocardoso87/beecrowd-assessment/issues"
+  },
+  "homepage": "https://github.com/fabiocardoso87/beecrowd-assessment#readme",
+  "devDependencies": {
+    "cypress": "^14.0.2",
+    "mochawesome": "^7.1.3"
+  },
+  "dependencies": {
+    "@faker-js/faker": "^9.4.0",
+    "faker": "^6.6.6"
+  }
+}
